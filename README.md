@@ -5,11 +5,10 @@ Visualization of non-pharmaceutical intervention measures based on the [CCCSL da
 
 Some exemplary visualizations are given below.
 
+**This software is under development and intended to respond rapidly to the current situation. Please use it with caution and bear in mind that there might be bugs**
+
 <img alt="Illustrative figure of intervention measures in Austria" src="img/measure_overview_CSH_Austria_1.png?raw=true" height="337" width="750" align="center">
 
 <img alt="Illustrative figure of intervention measures in Austria" src="img/measure_overview_CSH_Austria_2.png?raw=true" height="337" width="750" align="center">
 
 <img alt="Illustrative figure of intervention measures in Austria" src="img/measure_overview_CSH_Austria_3.png?raw=true" height="337" width="750" align="center">
-
-
-**This software is under development and intended to respond rapidly to the current situation. Please use it with caution and bear in mind that there might be bugs**
